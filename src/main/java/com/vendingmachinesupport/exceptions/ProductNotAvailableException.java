@@ -1,5 +1,5 @@
 package com.vendingmachinesupport.exceptions;
 
-public class ProductNotAvailableException extends Exception {
+public class ProductNotAvailableException extends Throwable {
 
 }
